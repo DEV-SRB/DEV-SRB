@@ -5,8 +5,8 @@ By day, I turn raw data into meaningful insights using Python, BI tools, and mac
 From building solutions to building teams, I believe in creating impact with both logic and empathy. Let’s connect, collaborate, and grow together! </h4>
 
 
-- 🔭 I’m currently working on LLM
-- 🌱 I’m currently learning GenAI
+- 🔭 I’m currently working on LLM, BI 
+- 🌱 I’m currently learning GenAI, Finance BI reporting and Python for Fabric
 ###
 
 <div align="center">
